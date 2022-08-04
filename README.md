@@ -11,12 +11,12 @@ $ pkg update && pkg upgrade
 $ pkg install python git
 $ pkg install play-audio
 $ python -m pip install --upgrade pip
-$ git clone https://github.com/AngCyber/MultiBF
-$ cd MultiBF
+$ git clone https://github.com/Debleng19/GNP
+$ cd GNP
 $ ls
 $ git pull
 $ pip install -r multi.tools
-$ python multi.py
+$ python GNP.py
 ```
 #### Results Crack
 
