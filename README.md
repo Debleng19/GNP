@@ -8,6 +8,7 @@ Karena ip device nya masih aman, jadi kemungkinan besar mendapat akun OK
 #### CARA INSTALL SCRIPT:
  download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_117.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
 
+### Support 32bit&64bit.
 #### Instalasi Tools
 ``` bash
 $ pkg update && pkg upgrade
